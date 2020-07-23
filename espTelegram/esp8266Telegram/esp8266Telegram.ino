@@ -28,9 +28,9 @@ bool estadoLed2 = false;
 
 CTBot myBot;
 //Configurações da rede wifi e conexao
-String ssid  = "CNET TELECOM_FAMILIA ALMEIDA"; //Nome da sua rede wifi
-String pass  = "almeida87"; //Senha da sua rede wifi
-String token = "1111697630:AAEeqrSOJFmWD-xkytopDRe4TjPbfPbsfxk"; //Token bot Telegram
+String ssid  = "************************"; //Nome da sua rede wifi
+String pass  = "*********************************"; //Senha da sua rede wifi
+String token = "*************************:*********************************************"; //Token bot Telegram
 
 //====== protótipo da função d3e teste da conexão ===================================================================================================================================================== 
 void testaCon();
